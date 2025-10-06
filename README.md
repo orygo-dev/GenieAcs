@@ -8,7 +8,7 @@ This is autoinstall GenieACS
 apt install git curl -y
 ```
 ```
-git clone https://github.com/arygo-dev/GenieAcs
+git clone https://github.com/orygo-dev/GenieAcs
 ```
 ```
 cd GenieAcs
